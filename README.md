@@ -10,11 +10,11 @@ Right Click – erase
 UP Arrow – clear screen  
 RIGHT Arrow – change shape (circle / square)  
 LEFT Arrow – change color  
-SPACE – exit
+SPACE – exit  
 
 ## Project Structure
-DEMO - video 
-COD - the cod in c++
+DEMO – video demonstration  
+CODE – source code in C++
 
 ## Technologies
 C++  
